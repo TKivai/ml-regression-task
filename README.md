@@ -1,1 +1,1 @@
-# ml-regression-task
+# machine learning tasks
